@@ -1,2 +1,2 @@
 # basic-calculator
-do addition , subtraction , multiplication and division with it
+🧮 A simple command-line calculator built in C, supporting basic arithmetic operations.
